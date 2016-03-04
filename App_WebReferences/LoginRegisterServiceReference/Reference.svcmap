@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="382b5a98-3734-4384-bbc3-ddf7e3e36886" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57381/NewLoginRegisterService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NewLoginRegisterService.disco" MetadataType="Disco" ID="161e4eb7-43c5-4950-b424-365d660b1222" SourceId="1" SourceUrl="http://localhost:57381/NewLoginRegisterService.svc?disco" />
+    <MetadataFile FileName="NewLoginRegisterService.xsd" MetadataType="Schema" ID="2e0269b1-9d29-4499-8e3c-9e83f87f136b" SourceId="1" SourceUrl="http://localhost:57381/NewLoginRegisterService.svc?xsd=xsd2" />
+    <MetadataFile FileName="NewLoginRegisterService.wsdl" MetadataType="Wsdl" ID="c4244c6b-81e3-4044-8d95-2a6d19e5d998" SourceId="1" SourceUrl="http://localhost:57381/NewLoginRegisterService.svc?wsdl" />
+    <MetadataFile FileName="NewLoginRegisterService1.xsd" MetadataType="Schema" ID="a4bc7e1b-2127-444d-82d5-b33b6394ed24" SourceId="1" SourceUrl="http://localhost:57381/NewLoginRegisterService.svc?xsd=xsd0" />
+    <MetadataFile FileName="NewLoginRegisterService2.xsd" MetadataType="Schema" ID="f0fca604-e125-45ce-b92c-ba9ea6cdf78b" SourceId="1" SourceUrl="http://localhost:57381/NewLoginRegisterService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
